@@ -1,0 +1,207 @@
+body{
+  font-family: sans-serif;
+}
+.nav-flex{
+  display: flex;
+  justify-content: flex-start;
+  border-bottom: 0.1px solid #E5E5E5;
+  padding-bottom: 20px;
+}
+.icons img{
+  margin-top: 35px;
+  width:25px;
+  margin-left: 30px;
+}
+.logo img{
+  margin-top: 37px;
+  margin-left: 30px;
+}
+input{
+  margin-top: 30px;
+  margin-left: 70px;
+  width: 50%;
+  height: 25px;
+}
+.logo-icons{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -25px;
+}
+.logo-icons img{
+  margin-top: -35px;
+  padding: 5px 30px 5px 0px;
+  width: 25px;
+  height: 25px;
+}
+.contain-video{
+  margin-top: 100px;
+  margin-left: 150px;
+}
+.contain-video p{
+  font-size: 20px;
+}
+.contain-video h6{
+  font-size: 20px;
+  color:grey;
+  margin-top: -10px;
+  word-spacing: 3px;
+}
+
+.flex-video{
+  margin-top: -70px;
+  margin-left: 270px;
+  display: flex;
+  justify-content: flex-start;
+}
+.flex-coms{
+  margin-top: 20px;
+  margin-left: 150px;
+}
+.coms-text{
+  margin-top:-50px;
+  margin-left: 55px;
+}
+.coms-text h1{
+  font-size: 20px;
+}
+.coms-text h2{
+  line-height: 3px;
+  font-size: 15px;
+  letter-spacing: 2px;
+  color: grey;
+}
+.coms-text h3{
+  margin-top: 30px;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+.coms-text p{
+  color:grey;
+}
+.button-ins{
+  margin-top: -180px;
+  display: flex;
+  justify-content:center;
+  margin-right: 205px;
+}
+.button{
+  background-color: red;
+  border: none;
+  color:white;
+  padding: 10px 10px;
+  border-radius: 3px;
+}
+.commentaire{
+  margin-top: 150px;
+  margin-left: 150px;
+  display: flex;
+  justify-content:flex-start;
+}
+.commentaire img{
+  margin-top: 8px;
+  margin-left: 10px;
+  width: 70px;
+}
+.commentaires-avatar{
+  margin-left: 150px;
+}
+.flex-com-text-keso,.flex-com-text-infinite{
+  display: flex;
+  justify-content: flex-start;
+  margin-top: -55px;
+  margin-left: 60px;
+}
+.flex-com-text-star{
+  display: flex;
+  justify-content: flex-start;
+  margin-top: -50px;
+  margin-left: 60px;
+}
+.flex-com-text-keso h1,.flex-com-text-infinite h1,.flex-com-text-star h1{
+  font-size: 15px;
+}
+.flex-com-text-keso h2,.flex-com-text-infinite h2,.flex-com-text-star h2{
+  font-size: 12px;
+  margin-left: 5px;
+  margin-top: 12px;
+  color: grey;
+}
+.keso h3,.infinite h3,.star h3{
+  line-height: 1px;
+  margin-left: 60px;
+  font-size: 12px;
+}
+.comment-keso img,.comment-infinite img{
+  margin-left: 60px;
+}
+.comment-star img{
+  margin-left: 60px;
+  margin-top: 500px;
+}
+.star img{
+  margin-top: 25px;
+}
+.infinite{
+  margin-top: 20px;
+}
+.contain-video-right{
+  float: right;
+  margin-top: -850px;
+  margin-right: 250px;
+}
+.contain-text{
+  display: flex;
+  margin-top: -35px;
+  margin-left: 200px;
+  color:grey;
+}
+.contain-text p{
+  margin-top: 22px;
+  margin-left: 50px;
+}
+.contain-text img{
+  width: 30px;
+  height: 30px;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+.next{
+  float: right;
+  display: flex;
+  justify-content:space-between;
+  margin-top: -790px;
+  margin-right: 210px;
+}
+.nto img{
+  margin-left: 600px;
+  width: 22%;
+  height: 90%;
+}
+.nto{
+  margin-top: -30px;
+}
+.nto-text{
+
+  margin-left: 50px;
+}
+.nto-text h3,.queen-text h3,.week-text h3,.queen-2-text h3{
+  margin-top: -30px;
+  font-size: 13px;
+}
+.nto-text p,.queen-text p,.week-text p,.queen-2-text p{
+  font-size: 13px;
+  line-height: 5px;
+  color: grey;
+}
+.queen {
+  margin-top: -700px;
+  margin-left: 600px;
+}
+.queen-text,.week-text,.queen-2-text{
+  margin-left: 190px;
+  margin-top: -90px;
+}
+.week,.queen-2{
+  margin-left: 600px;
+  margin-top: 50px;
+}
